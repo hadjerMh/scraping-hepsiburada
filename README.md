@@ -1,4 +1,4 @@
-##Webscraping the comment section of a produt of the website hepsiburada
+## Webscraping the comment section of a produt of the website hepsiburada
 
 run those commands:
 ```pip install scrapy```
